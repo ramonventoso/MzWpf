@@ -14,5 +14,6 @@ namespace MzWpf
     public partial class App : Application
     {
         private int x;
+        private double y;
     }
 }
